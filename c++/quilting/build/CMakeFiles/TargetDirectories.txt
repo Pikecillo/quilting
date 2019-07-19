@@ -1,0 +1,3 @@
+/home/mrinconn/github-repos/quilting/c++/quilting/build/CMakeFiles/rebuild_cache.dir
+/home/mrinconn/github-repos/quilting/c++/quilting/build/CMakeFiles/synthesis.dir
+/home/mrinconn/github-repos/quilting/c++/quilting/build/CMakeFiles/edit_cache.dir
